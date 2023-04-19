@@ -46,4 +46,4 @@ package-lock.json
 *.xlsx#
 aws/*
 
-technical-test-stackadoc.iml
+stackadoc-technical-test-scraping.iml
