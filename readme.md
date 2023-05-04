@@ -15,9 +15,9 @@ Les informations à récupérer pour chaque offre sont :
 - le nom du produit
 - l'URL de la page produit
 - le prix
-- les images
+- les images (liste avec les URLs des images + images téléchargées en local)
 - la description du produit
-- la note des consommateurs
+- la note des consommateurs (le nombre d'étoiles)
 
 Le résultat final doit être exporté en CSV.
 
@@ -42,9 +42,9 @@ The information to be retrieved for each offer are :
 - the product name
 - the URL of the product page
 - the price
-- the images
+- the images (list with the URLs of the images + images downloaded locally)
 - the product description
-- consumer rating
+- consumer rating (number of stars)
 
 The final result must be exported in CSV.
 
